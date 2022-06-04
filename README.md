@@ -1,12 +1,8 @@
 # 📱Projeto
 
-## Desenvolver uma aplicação para pesquisar Pokémons e suas características, usando React Native.
+## Desenvolver uma aplicação para pesquisar Pokémons e suas características, usando React Native.Nesse projeto usei React Native e Typescript. Todos os dados sobre os Pokémons, foram através do uso da PokéAPI.Este é um projeto similiar a uma Pokédex.
 
-## Nesse projeto usei React Native e Typescript. Todos os dados sobre os Pokémons, foram através do uso da PokéAPI.
-
-## Este é um projeto similiar a uma Pokédex.
-
-# 💻 Conceitos Abortados
+# 💻 Conceitos Abordados
 
 ## . Consumo de api com o uso axios.
 
