@@ -1,29 +1,29 @@
-## 📱Projeto
+# 📱Projeto
 
-# Desenvolver uma aplicação para pesquisar Pokémons e suas características, usando React Native.
+## Desenvolver uma aplicação para pesquisar Pokémons e suas características, usando React Native.
 
-# Nesse projeto usei React Native e Typescript. Todos os dados sobre os Pokémons, foram através do uso da PokéAPI.
+## Nesse projeto usei React Native e Typescript. Todos os dados sobre os Pokémons, foram através do uso da PokéAPI.
 
-# Este é um projeto similiar a uma Pokédex.
+## Este é um projeto similiar a uma Pokédex.
 
-## 💻 Conceitos Abortados
+# 💻 Conceitos Abortados
 
-# . Consumo de api com o uso axios.
+## . Consumo de api com o uso axios.
 
-# . Tipagem no Typescript
+## . Tipagem no Typescript
 
-# . Criação de tema global de core com o DefaltTheme do slyled-components.
+## . Criação de tema global de core com o DefaltTheme do slyled-components.
 
-# . Informações dos Pokémons, imagem, dados de batalha, características, dados sobre a evolução.
+## . Informações dos Pokémons, imagem, dados de batalha, características, dados sobre a evolução.
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
-# React Native
+## React Native
 
-# TypeScript
+## TypeScript
 
-# Axios
+## Axios
 
-# Styled-components
+## Styled-components
 
-# Expo
+## Expo
